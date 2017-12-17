@@ -1,1 +1,1 @@
-# [Homepage](http://sokon.jp)
+# [Members Page](http://members.sokon.jp)
