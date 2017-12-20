@@ -10,7 +10,7 @@
                         <p>{{ post.description }}</p>
                 </header>
                 <footer>
-                        <a href="{{ post.url }}">詳細</a>
+                        <a href="{{ post.url | relative_url }}">詳細</a>
                 </footer>
         </article>
 	{% endif %}
