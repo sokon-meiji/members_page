@@ -1,1 +1,0 @@
-# [Members Page](http://members.sokon.jp)
