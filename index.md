@@ -14,7 +14,7 @@ Slack
 https://sokon.slack.com
 
 カツ丼屋
-http://katsudon.sokon.jp
+http://sokon.jp/katsudon
 
 Scrapbox
 https://scrapbox.io/sokon/
