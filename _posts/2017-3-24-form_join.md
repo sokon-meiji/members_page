@@ -3,7 +3,7 @@ layout: post
 title: 入会申請フォーム
 description: 入会はこちら
 image: assets/images/form_join.png
-link: https://docs.google.com/forms/d/e/1FAIpQLSd3j537AJzkTkqQHCvRzbBW2ofVh-9dUQGHFWb5gzMDSGnTpA/viewform
+link: https://docs.google.com/forms/d/e/1FAIpQLSekBIKqv0MTDMNMw1eNat18YENwYSwnTVck7sbiskIzYpIpwg/viewform?usp=sf_link
 ---
 
 - 管理者: システム管理係
