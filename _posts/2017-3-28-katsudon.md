@@ -4,7 +4,5 @@ title: カツ丼屋
 description: 活動教室とイベント情報
 image: assets/images/katsudon.png
 link: https://sokon.jp/katsudon
+description_link: https://scrapbox.io/CCC/%E3%82%AB%E3%83%84%E4%B8%BC%E5%B1%8B
 ---
-
-- 運用責任者: 書記
-- 該当チャンネル: [#ex_recorder](https://sokon.slack.com/messages/C4FUFR7S9/)
